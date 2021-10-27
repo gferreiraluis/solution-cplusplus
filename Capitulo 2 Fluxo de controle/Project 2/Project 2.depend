@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1635355910 source:c:\users\user\workspace\ws-c++\solution c++ absolute\capitulo 2 fluxo de controle\project 2\main.cpp
+	<iostream>
+	<stdlib.h>
+	<locale.h>
+	<math.h>
+
