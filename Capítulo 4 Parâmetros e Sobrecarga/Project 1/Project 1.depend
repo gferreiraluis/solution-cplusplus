@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1635526283 source:c:\users\user\workspace\ws-c++\solution c++ absolute\capítulo 4 parâmetros e sobrecarga\project 1\main.cpp
+	<iostream>
+	<stdlib.h>
+	<locale.h>
+	<math.h>
+
