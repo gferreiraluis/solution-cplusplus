@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1635800284 source:c:\users\user\workspace\ws-c++\solution c++ absolute\capitulo 5 vetores\project 9\main.cpp
+	<iostream>
+	<stdlib.h>
+	<locale.h>
+	<math.h>
+	<windows.h>
+
