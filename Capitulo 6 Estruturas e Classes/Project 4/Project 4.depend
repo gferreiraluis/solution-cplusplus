@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1635968434 source:c:\users\user\workspace\ws-c++\solution c++ absolute\capitulo 6 estruturas e classes\project 4\main.cpp
+	<iostream>
+	<stdlib.h>
+	<locale.h>
+	<math.h>
+	<windows.h>
+
