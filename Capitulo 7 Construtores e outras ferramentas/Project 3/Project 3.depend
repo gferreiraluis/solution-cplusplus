@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1636066693 source:c:\users\user\workspace\ws-c++\solution c++ absolute\capitulo 7 construtores e outras ferramentas\project 3\main.cpp
+	<iostream>
+	<stdlib.h>
+	<locale.h>
+	<math.h>
+
