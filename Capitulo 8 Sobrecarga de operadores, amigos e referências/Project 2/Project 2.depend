@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1636151398 source:c:\users\user\workspace\ws-c++\solution c++ absolute\capitulo 8 sobrecarga de operadores, amigos e referências\project 2\main.cpp
+	<iostream>
+	<stdlib.h>
+	<locale.h>
+	<math.h>
+
