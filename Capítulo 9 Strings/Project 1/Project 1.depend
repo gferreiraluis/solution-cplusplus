@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1636562968 source:c:\users\user\workspace\ws-c++\solution c++ absolute\capítulo 9 strings\project 1\main.cpp
+	<iostream>
+	<locale.h>
+	<string>
+	<cctype>
+
